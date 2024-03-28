@@ -143,7 +143,7 @@ const TransferList = ({ srcList, selectedList, onChangeSelectedList, title, sele
                   type="checkbox"
                   value={l.id}
                   onChange={handleChangeLeftList}
-                  className={`mr-1 dark:accent-gray-500 }`}
+                  className="mr-1"
                 />
                 {l.text}
               </div>
@@ -216,7 +216,7 @@ const TransferList = ({ srcList, selectedList, onChangeSelectedList, title, sele
                   type="checkbox"
                   value={l.id}
                   onChange={handleChangeRightList}
-                  className={`mr-1 dark:accent-gray-500 }`}
+                  className="mr-1"
                 />
                 {l.text}
               </div>
