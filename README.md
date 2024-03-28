@@ -1,6 +1,6 @@
 # Tranfer List Custom Component
 
-Tranfer list component created by using Vite, Tailwind CSS, shadcn/ui (for button), React Icons.
+Tranfer list component created by using Vite (Typescript), Tailwind CSS, shadcn/ui (for button), React Icons.
 
 ## What does this do?
 
